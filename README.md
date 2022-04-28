@@ -4,7 +4,9 @@
 
 # Sobre o Projeto
 
-Normalmente, as pessoas não sabem como solucionar problemas emergenciais e que exigem atitudes imediatas para salvar a vida de um ente querido, visando evitar o agravamento do problema até que o serviço especializado de atendimento chegue ao local.
+Normalmente, as pessoas não sabem como solucionar problemas emergenciais e que exigem atitudes imediatas para salvar a vida de um ente querido visando evitar o agravamento do problema até que o serviço especializado de atendimento chegue ao local.
+Dessa forma, o aplicativo visa ajudar as pessoas a solucionar tais problemas emergenciais de saúde, como engasgo, sufocamento, queimadura, etc…
+O app possui uma lista com principais problemas e suas soluções imediatistas. Tem ainda um botão de emergência que liga para os bombeiros.
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
