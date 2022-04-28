@@ -1,6 +1,6 @@
 # 1ᵒˢ Socorros
 
-![Capa do Projeto](https://imgur.com/a/rlu9HGL)
+![Capa do Projeto](https://i.imgur.com/l4rK4MA.jpg)
 
 # Sobre o Projeto
 
