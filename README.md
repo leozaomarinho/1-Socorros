@@ -1,11 +1,10 @@
-# Título do Projeto
+# 1ᵒˢ Socorros
 
-
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto](https://imgur.com/a/rlu9HGL)
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+Normalmente, as pessoas não sabem como solucionar problemas emergenciais e que exigem atitudes imediatas para salvar a vida de um ente querido, visando evitar o agravamento do problema até que o serviço especializado de atendimento chegue ao local.
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
