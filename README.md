@@ -1,6 +1,10 @@
 # 1ᵒˢ Socorros
 
+<h4 align="center"> 
+
 ![Capa do Projeto](https://i.imgur.com/l4rK4MA.jpg)
+	
+</h4>
 
 # Sobre o Projeto
 
