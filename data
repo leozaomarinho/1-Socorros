@@ -4,6 +4,7 @@
     "id": "example-1",
     "description": "This is an example of a simple chart.",
     "thumbnail": "//via.placeholder.com/150x150",
+    "key": "key-example-1",
     "steps": [
       {"step1": "Step 1", "imagem": "https://www.w3schools.com/w3images/fry.jpg"},
       {"step2": "Step 2", "imagem": "https://www.w3schools.com/w3images/fry.jpg"},
