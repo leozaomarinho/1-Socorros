@@ -14,10 +14,10 @@
     ],
     "key": "key-example-1",
     "steps": [
-      {"step1": "Step 1", "imagem": "https://www.w3schools.com/w3images/fry.jpg"},
-      {"step2": "Step 2", "imagem": "https://www.w3schools.com/w3images/fry.jpg"},
-      {"step3": "Step 3", "imagem": "https://www.w3schools.com/w3images/fry.jpg"},
-      {"step4": "Step 4", "imagem": "https://www.w3schools.com/w3images/fry.jpg"}
+      {"step": "Step 1", "imagem": "https://www.w3schools.com/w3images/fry.jpg"},
+      {"step": "Step 2", "imagem": "https://www.w3schools.com/w3images/fry.jpg"},
+      {"step": "Step 3", "imagem": "https://www.w3schools.com/w3images/fry.jpg"},
+      {"step": "Step 4", "imagem": "https://www.w3schools.com/w3images/fry.jpg"}
     ]
   },
   {
@@ -37,11 +37,11 @@
     ],
     "key": "desmaios",
     "steps": [
-      {"step1": "Verifique se a pessoa está respirando e se tem pulso", "imagem": "https://i.imgur.com/giFpU5J.jpg"},
-      {"step2": "Deite a pessoa no chão, de barriga para cima, e eleve as pernas dela em relação ao corpo e a cabeça", "imagem": "https://i.imgur.com/QIRfiS5.png"},
-      {"step3": "Coloque a cabeça da vítima de lado, para facilitar a respiração e evitar asfixia devido ao risco de vômito", "imagem": "https://i.imgur.com/VNvkdBO.png"},
-      {"step4": "Afrouxe as roupas e abra os botões/zíperes para facilitar a respiração da pessoa", "imagem": "https://i.imgur.com/5fn65lU.png"},
-      {"step5": "Comunique-se com as pessoas, mesmo que ela não responda", "imagem": "https://i.imgur.com/5fn65lU.png"}
+      {"step": "Verifique se a pessoa está respirando e se tem pulso", "imagem": "https://i.imgur.com/giFpU5J.jpg"},
+      {"step": "Deite a pessoa no chão, de barriga para cima, e eleve as pernas dela em relação ao corpo e a cabeça", "imagem": "https://i.imgur.com/QIRfiS5.png"},
+      {"step": "Coloque a cabeça da vítima de lado, para facilitar a respiração e evitar asfixia devido ao risco de vômito", "imagem": "https://i.imgur.com/VNvkdBO.png"},
+      {"step": "Afrouxe as roupas e abra os botões/zíperes para facilitar a respiração da pessoa", "imagem": "https://i.imgur.com/5fn65lU.png"},
+      {"step": "Comunique-se com as pessoas, mesmo que ela não responda", "imagem": "https://i.imgur.com/5fn65lU.png"}
     ]
   }
 ]
