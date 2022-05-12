@@ -43,5 +43,26 @@
       {"step": "Afrouxe as roupas e abra os botões/zíperes para facilitar a respiração da pessoa", "imagem": "https://i.imgur.com/5fn65lU.png"},
       {"step": "Comunique-se com as pessoas, mesmo que ela não responda", "imagem": "https://i.imgur.com/5fn65lU.png"}
     ]
+  },
+  {
+    "title": "Engasgo Grave",
+    "id": "any_id",
+    "description": "É quando ocorre o bloqueio da traquéia (órgão que leva ar aos pulmões) por um objeto estranho, por vômito ou sangue.",
+    "thumbnail": "https://imgur.com/rApVOjB",
+    "symptoms" : [
+      { "name" : "1", "description" : "Dificuldade de respirar" },
+      { "name" : "2", "description" : "Agitação e tendênciade colocar as mão no pescoço" }
+      { "name" : "3", "description" : "Roxidão" }
+    ],
+    "causes" : [
+      { "name" : "1", "description" : "Bloqueio total ou parcial da traquéia" },
+    ],
+    "key": "engasgoGrave",
+    "steps": [
+      {"step": "Ficar de pé atrás da vítima, que também deve estar de pé. Passar os braços à volta do tronco da pessoa.", "imagem": "https://imgur.com/a/P3stoeZ"},
+      {"step": "Cerrar o punho da mão que tem mais força e colocá-la, com o nó do polegar, sobre a boca do estômago da vítima, que fica entre as costelas. Colocar a outra mão sobre a mão que tem o punho cerrado", "imagem": "https://imgur.com/5Yj65H2"},
+      {"step": "Fazer pressão com as mãos contra o estômago da pessoa, para dentro e para cima, como se fosse desenhar uma vírgula.", "imagem": "https://imgur.com/V80ZDE5"},
+      {"step": "Continue o movimento até que a vítima elimine o objeto que está causando a obstrução.", "imagem": "https://imgur.com/2s1r6tJ"}
+    ]
   }
 ]
