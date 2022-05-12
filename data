@@ -4,6 +4,14 @@
     "id": "example-1",
     "description": "This is an example of a simple chart.",
     "thumbnail": "//via.placeholder.com/150x150",
+    "symptoms" : [
+      { "name" : "Symptom 1", "description" : "Caso se aplique coloque os sintomas" },
+      { "name" : "Symptom 2", "description" : "Caso se aplique coloque os sintomas" }
+    ],
+    "causes" : [
+      { "name" : "Cause 1", "description" : "Caso se aplique coloque as causas" },
+      { "name" : "Cause 2", "description" : "Caso se aplique coloque as causas" }
+    ],
     "key": "key-example-1",
     "steps": [
       {"step1": "Step 1", "imagem": "https://www.w3schools.com/w3images/fry.jpg"},
