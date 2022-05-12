@@ -19,5 +19,29 @@
       {"step3": "Step 3", "imagem": "https://www.w3schools.com/w3images/fry.jpg"},
       {"step4": "Step 4", "imagem": "https://www.w3schools.com/w3images/fry.jpg"}
     ]
+  },
+  {
+    "title": "Desmaios",
+    "id": "any_id",
+    "description": "É a perda temporária dos sentidos. Normalmente, é resultado da diminuição do fluxo sanguíneo no cérebro.",
+    "thumbnail": "https://i.imgur.com/6yKsdFs.png",
+    "symptoms" : [
+      { "key" : "1", "description" : "Súbita fraqueza" },
+      { "key" : "2", "description" : "Tontura e vertigem" },
+      { "key" : "3", "description" : "Dor no peito" },
+      { "key" : "4", "description" : "Falta de ar" }
+    ],
+    "causes" : [
+      { "key" : "1", "description" : "Jejum prolongado" },
+      { "key" : "2", "description" : "Problemas cardiovasculares" }
+    ],
+    "key": "desmaios",
+    "steps": [
+      {"step1": "Verifique se a pessoa está respirando e se tem pulso", "imagem": "https://i.imgur.com/giFpU5J.jpg"},
+      {"step2": "Deite a pessoa no chão, de barriga para cima, e eleve as pernas dela em relação ao corpo e a cabeça", "imagem": "https://i.imgur.com/QIRfiS5.png"},
+      {"step3": "Coloque a cabeça da vítima de lado, para facilitar a respiração e evitar asfixia devido ao risco de vômito", "imagem": "https://i.imgur.com/VNvkdBO.png"},
+      {"step4": "Afrouxe as roupas e abra os botões/zíperes para facilitar a respiração da pessoa", "imagem": "https://i.imgur.com/5fn65lU.png"},
+      {"step5": "Comunique-se com as pessoas, mesmo que ela não responda", "imagem": "https://i.imgur.com/5fn65lU.png"}
+    ]
   }
 ]
