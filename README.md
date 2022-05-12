@@ -58,11 +58,11 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 # Autores
 | <img src="https://avatars.githubusercontent.com/u/102473494?v=4" width=115 > | <img src="https://avatars.githubusercontent.com/u/89555322?v=4" width=115 >| <img src="https://avatars.githubusercontent.com/u/89614560?v=4" width=115 > | <img src="https://avatars.githubusercontent.com/u/81639502?v=4" width=115 >
 |---|---|---|---|
-| [Anna Conde](https://github.com/annaconde) | [Aline Ferlini](https://github.com/alineferlini) | [Jéssica Amaral](https://github.com/JessicaKAmaral) | [Leonardo Marinho ](https://github.com/leozaomarinho) 
+| [Anna Conde](https://github.com/annaconde) | [Aline Ferlini](https://github.com/alineferlini) | [Jéssica Amaral](https://github.com/JessicaKAmaral) | [ Leonardo   Marinho ](https://github.com/leozaomarinho) 
 
-| <img src="https://avatars.githubusercontent.com/u/62044186?v=" width=115 > | <img src="https://avatars.githubusercontent.com/u/84483277?v=4" width=115 >| <img src="https://avatars.githubusercontent.com/u/80972527?v=4" width=115 > | <img src="https://avatars.githubusercontent.com/u/102559866?v=4" width=115 >
+| <img src="https://avatars.githubusercontent.com/u/62044186?v=" width=115 > | <img src="https://avatars.githubusercontent.com/u/84483277?v=4" width=115 >| <img src="https://avatars.githubusercontent.com/u/102559866?v=4" width=115 >| <img src="https://avatars.githubusercontent.com/u/80972527?v=4" width=115 > 
 |---|---|---|---|
-| [Lucas Valadares](https://github.com/ldevLucasl) | [Rodrigo Pereira](https://github.com/DevRodrigoPatricio) | [Sanderson Maxwell](https://github.com/SandersonMaxwell) | [Vinicius Mello](https://github.com/viniciusMelloo) 
+| [Lucas Valadares](https://github.com/ldevLucasl) | [Rodrigo Pereira](https://github.com/DevRodrigoPatricio) | [Vinicius Mello](https://github.com/viniciusMelloo) | [Sanderson Maxwell](https://github.com/SandersonMaxwell) 
 
 
 # Licença
