@@ -30,12 +30,18 @@ O app possui uma lista com principais problemas e suas soluções imediatistas. 
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [ ] RF001: Listar procedimentos disponiveis
+- [ ] RF002: Vizualizar procedimentos
+- [ ] RF003: Ligar para a emergência.
+- [ ] RF004: Filtrar procedimento por palavra chave.
+- [ ] RF005: Reportar erro no procedimento.
+- [ ] RF006: Enviar sugestão de procedimento a ser incluído no APP.
+- [ ] RF007: Selecionar o tamanho da fonte dos textos no app.
+- [ ] RF008: Criar perfil
+- [ ] RF009: Cadastrar contato de emergência
+- [ ] RF010: Ligar para o contato de emergência
+- [ ] RF011: Compartilhar o conteúdo do procedimento
+
 
 # Tecnologias Usadas
 
