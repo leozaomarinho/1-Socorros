@@ -67,10 +67,10 @@ Para facilitar a leitura para usuários com visão reduzida  <br />
 **Critérios de Aceite**<br />
 1- Deve ser possível selecionar os seguintes tamanhos de fonte “pequena”, “média”, “grande” e “extra-grande” <br />
 2- Quando selecionada uma fonte o aplicativo deve exibir os textos nos seguintes tamanhos: <br />
-Pequena: XXpts  <br />
-Média: XXpts  <br />
-Grande: XXpts  <br />
-Extra-Grande: XXpts  <br />
+Pequena: 14px  <br />
+Média: 16px  <br />
+Grande: 18px  <br />
+Extra-Grande: 20px  <br />
 
 ## US008: Criar perfil no aplicativo
 **Narrativa de Negócio** <br />
