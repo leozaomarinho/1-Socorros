@@ -50,7 +50,7 @@ O app possui uma lista com principais problemas e suas soluções imediatistas. 
 
 # Prototipos 
 
-* [Figma](https://www.figma.com/file/SXLhZCH6ypxjRbqhGqCEPr/Untitled?fuid=987010351683191093)
+* [Figma](https://www.figma.com/file/SXLhZCH6ypxjRbqhGqCEPr/Untitled?node-id=0%3A1)
 * [Whimsical](https://whimsical.com/primeiros-socorros-AVCy1kqCJRu1BAkX87MKwM)
 
 # Contribuição
