@@ -45,11 +45,13 @@ O app possui uma lista com principais problemas e suas soluções imediatistas. 
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+
+# Prototipos 
+
+* [Figma](https://www.figma.com/file/SXLhZCH6ypxjRbqhGqCEPr/Untitled?fuid=987010351683191093)
+* [Whimsical](https://whimsical.com/primeiros-socorros-AVCy1kqCJRu1BAkX87MKwM)
 
 # Contribuição
 
