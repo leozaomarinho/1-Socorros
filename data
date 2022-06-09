@@ -1,23 +1,74 @@
 [
   {
-    "title": "Example 1",
-    "id": "example-1",
-    "description": "This is an example of a simple chart.",
-    "thumbnail": "//via.placeholder.com/150x150",
+  "title": "Cortes Profundos",
+    "id": "anna_id",
+    "description": "Um corte profundo pode ser causado pelo impacto de qualquer objeto afiado contra a pele, incluindo coisas simples como quinas de paredes ou objetos projetados para o corte como facas.",
+    "thumbnail": "https://imgur.com/STxYxYE",
     "symptoms" : [
-      { "name" : "Symptom 1", "description" : "Caso se aplique coloque os sintomas" },
-      { "name" : "Symptom 2", "description" : "Caso se aplique coloque os sintomas" }
+      { "key" : "1", "description" : "Dor extrema, sangramento e sinais de choque (frio, suor excessivo, calafrios ou palidez)." },
+      { "key" : "2", "description" : "presença de gordura (tecido irregular e amarelo), músculos (tecido fibroso e vermelho) ou ossos (superfície rígida e branca)." },
+     ],
+    "causes" : [
+      { "key" : "Cause 1", "description" : " Contato com objetos afiados" },
+    ],
+    "key": "cortesprofundos",
+    "steps": [
+      {"step": "Lave bem o local com água e sabão por cinco a dez minutos", "imagem": "https://imgur.com/ChkHjje"},
+      {"step": "Aplique pressão para interromper o sangramento, pressione um pano limpo sobre o local por pelo menos 15 minutos e tente manter o corte acima do nível do coração para conter o sangramento.", "imagem": "https://imgur.com/5efCKeJ"},
+      {"step": " Aplique uma camada fina de pomada antibiótica e cubra o corte com uma gaze. Mantenha a ferida seca e limpa trocando o curativo uma ou duas vezes por dia até que ela cicatrize.", "imagem": "https://imgur.com/3i99911"}
+    ],
+     "link": [
+      {"link": "http://www.manutencaoesuprimentos.com.br"},
+    ]
+  },
+  {
+  "title": "Queimaduras Químicas",
+    "id": "anna_id",
+    "description": "As queimaduras químicas acontecem quando um indivíduo entra em contato com qualquer substância que pode causar uma reação com a pele. Essas substâncias podem ser qualquer coisa, desde pimentas fortes até produtos químicos industriais altamente tóxicos.",
+    "thumbnail": "https://imgur.com/kmnkX2k",
+    "symptoms" : [
+      { "key" : "1", "description" : "Pele escurecida ou morta, que se vê principalmente em queimaduras químicas causadas por ácido" },
+      { "key" : "2", "description" : "Irritação, vermelhidão ou ardor na área afetada" },
+      { "key" : "3", "description" : "Adormecimento ou dor na área afetada" },
+      { "key" : "4", "description" : "Uma perda de visão ou alterações na visão se os produtos químicos entrarem em contacto com os seus olhos" }
     ],
     "causes" : [
-      { "name" : "Cause 1", "description" : "Caso se aplique coloque as causas" },
-      { "name" : "Cause 2", "description" : "Caso se aplique coloque as causas" }
+      { "key" : "Cause 1", "description" : " Ácidos" },
+      { "key" : "Cause 2", "description" : " Produtos Químicos" }
     ],
-    "key": "key-example-1",
+    "key": "queimadurasquimicas",
     "steps": [
-      {"step": "Step 1", "imagem": "https://www.w3schools.com/w3images/fry.jpg"},
-      {"step": "Step 2", "imagem": "https://www.w3schools.com/w3images/fry.jpg"},
-      {"step": "Step 3", "imagem": "https://www.w3schools.com/w3images/fry.jpg"},
-      {"step": "Step 4", "imagem": "https://www.w3schools.com/w3images/fry.jpg"}
+      {"step": "Remover o químico que causou a queimadura e enxaguar a pele sob água corrente durante 10 a 20 minutos.", "imagem": "https://imgur.com/fvzY9b2"},
+      {"step": "Se um químico entrou em contacto com os seus olhos, lave os olhos continuamente durante pelo menos 20 minutos antes de procurar cuidados de emergência.", "imagem": "https://imgur.com/HAmj0VO"},
+      {"step": "Remova qualquer roupa ou jóias contaminadas pelo produto químico. Envolva a área queimada com um penso esterilizado seco ou um pano limpo, se possível.", "imagem": "https://imgur.com/RFDLQjG"}
+    ],
+     "link": [
+      {"link": "http://www.manutencaoesuprimentos.com.br"},
+      {"link": "http://www.estarbemhoje.com"}
+    ]
+},
+{
+    "title": "Queimaduras Térmicas",
+    "id": "anna_id",
+    "description": "Definida como sendo uma lesão traumática que acontece na pele e é ocasionada por algum agente externo..",
+    "thumbnail": "https://imgur.com/OGPkvBn",
+    "symptoms" : [
+      { "key" : "1", "description" : "Vermelhidão na pele (que torna-se branca com efeito da pressão)" },
+      { "key" : "2", "description" : "Inflamação e desidratação leve" },
+      { "key" : "3", "description" : "febre e dor" }
+    ],
+    "causes" : [
+      { "key" : "Cause 1", "description" : "Uma exposição ou contato com uma fonte de calor." },
+      { "key" : "Cause 2", "description" : "Contato com uma fonte fria." }
+    ],
+    "key": "queimadurastermicas",
+    "steps": [
+      {"step": "Primeiro o local deve ser lavado com água, deixando água fria ou freca por 10 a 15 min.", "imagem": "https://imgur.com/XsfQwQK"},
+      {"step": "segundo, cubra o local com uma faixa esterilizada e retirando todos os acessórios.", "imagem": "https://imgur.com/qv6kunt"},
+    ],
+     "link": [
+      {"link": "http://www.rededorsaoluiz.com.br"},
+      {"link": "http://www.criasaude.com.br/N2093/doencas/queimadura.html"}
     ]
   },
   {
