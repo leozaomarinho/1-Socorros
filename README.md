@@ -22,7 +22,7 @@ O app possui uma lista com principais problemas e suas soluções imediatistas. 
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
-* [Prototipos](#prototipos)
+* [Protótipos](#prototipos)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
