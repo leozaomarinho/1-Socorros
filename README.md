@@ -22,6 +22,7 @@ O app possui uma lista com principais problemas e suas soluções imediatistas. 
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
+* [Prototipos](#prototipos)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
 * [Licença](#licença)
@@ -48,7 +49,7 @@ O app possui uma lista com principais problemas e suas soluções imediatistas. 
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-# Prototipos 
+# Protótipos 
 
 * [Figma](https://www.figma.com/file/SXLhZCH6ypxjRbqhGqCEPr/Untitled?node-id=0%3A1)
 * [Whimsical](https://whimsical.com/primeiros-socorros-AVCy1kqCJRu1BAkX87MKwM)
