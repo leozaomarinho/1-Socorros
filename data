@@ -1,5 +1,45 @@
 
-[
+[  {
+  "title": "Torções e fraturas",
+    "id": "Rodrigo_id",
+    "description": " Uma fratura é um osso quebrado. Uma luxação é quando um osso se move para fora de sua articulação, e um entorse/estiramento é o alongamento de ligamentos ou tendões. Enquanto eles podem ser parecidos, são duas lesões diferentes. ",
+    "symptoms" : [
+      { "key" : "1", "description" : "Sensibilidade na região lesionada." },
+      { "key" : "2", "description" : "Inchaço." },
+      { "key" : "3", "description" : "Pode surgir equimose local." },
+      { "key" : "4", "description" : "Aumento da temperatura no local." },
+      { "key" : "5", "description" : "Vermelhidão." },
+      { "key" : "6", "description" : "Dor leve, moderada ou intensa, dependendo da gravidade da lesão." }
+    
+     ],
+    "causes" : [
+      { "key" : "Cause 1", "description" : " Queda , ou acidente ." },
+    ],
+    "key": "Torçõesefraturas",
+    "steps": [
+      {"step": m situações como entorse ou até mesmo fraturas, pode-se improvisar uma tala com madeira, uma revista grossa ou mesmo com jornal, colocando gelo no local e evitando massagear. Após isso, com a área imobilizada procure ajuda médica.
+."},
+
+  }, 
+
+{
+  "title": "Choques elétricos",
+    "id": "Rodrigo_id",
+    "description": "O choque elétrico (AO 1945: choque eléctrico) é a passagem de uma corrente elétrica através do corpo, utilizando-o como um condutor. ",
+    "symptoms" : [
+      { "key" : "1", "description" : "A gravidade das consequências varia de acordo com o fluxo de corrente elétrica. Então, quanto menor a voltagem da corrente e mais rápido a pessoa for socorrida,
+      mais brandas podem ser as sequelas. Algumas delas são náuseas, queimaduras, tonturas, alteração do batimento cardíaco, formigamento e ardência." },
+      ,
+     ],
+    "causes" : [
+      { "key" : "Cause 1", "description" : " Contato com corrente de energia elétrica" },
+    ],
+    "key": "cortesprofundos",
+    "steps": [
+      {"step": Neste caso, é fundamental antes de prestar o socorro, verificar se a corrente elétrica foi desligada. Só então, toque a vítima."},
+      {"step": "Se houver uma parada cardiorrespiratória, inicie uma massagem no peito e respiração boca a boca na vítima, enquanto o socorro médico é acionado.
+"},
+  },
   {
   "title": "Cortes Profundos",
     "id": "anna_id",
