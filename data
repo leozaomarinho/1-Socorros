@@ -1,8 +1,114 @@
 
-[  {
+[ 
+
+{  "title": "Ataques cardíacos",
+    "id": "Rodrigo_id",
+    "description": " O infarto do miocárdio, ou ataque cardíaco, é a morte das células de uma região do músculo do coração por conta da formação de 
+    um coágulo que interrompe o fluxo sanguíneo de forma súbita e intensa. ",
+    
+    "symptoms" : [
+      { "key" : "1", "description" : "Dor no peito. Trata-se de uma sensação de pressão, peso, aperto ou compressão no peito." },
+      { "key" : "2", "description" : "Dor em outras partes do corpo." },
+      { "key" : "3", "description" : "Sensação de tontura ou atordoamento." },
+      { "key" : "4", "description" : "Sudorese." },
+      { "key" : "5", "description" : "Enjoo ou vômito." },
+      { "key" : "6", "description" : "Sensação forte de ansiedade (igual a um ataque de pânico)" },
+      { "key" : "7", "description" : "Tosse ou chiado." },
+ 
+     ],
+    "causes" : [
+      { "key" : "Cause 1", "description" : " A principal causa do infarto é a aterosclerose, doença em que placas de gordura se acumulam no interior das 
+      artérias coronárias, chegando a obstrui-las. Na maioria dos casos o infarto ocorre quando há o rompimento de uma dessas placas, levando à formação
+      do coágulo e interrupção do fluxo sanguíneo." },
+     
+    "key": "Ataquescardíacos",
+    "steps": [
+      {"step": O atendimento e primeiros-socorros nesta situação é fundamental, pois se inicia uma luta contra o tempo. Nos primeiros três minutos, é importante
+      que o paciente seja submetido aos choques de um desfibrilador automático quando fora do ambiente hospitalar. Isto acompanhado de compressões torácicas
+      corretamente realizadas. Se houver sensação de opressão no peito, dor no lado esquerdo ou no meio do peito, que pode irradiar para o pescoço e para o braço
+      esquerdo, suor frio e intenso, desconforto acompanhado de tontura, desmaio, sudorese, náuseas e falta de ar, procure um médico imediatamente, segundo o 
+      cardiologista Otávio Gebara, do Instituto de Cardiologia São Paulo. O paciente também precisa manter a calma e deve tomar uma aspirina, que ajuda na 
+      circulação sanguínea. Em caso de sensação de perda da consciência, o ato de tossir ininterruptamente melhora a irrigação do coração, prejudicada no 
+      caso do infarto."},
+      
+      {"step": Aprenda fazer massagem cardíaca: coloque o paciente deitado de costas, numa superfície plana e sem travesseiro, com as mãos espalmadas, uma sobre
+      a outra, pressione a região bem no meio do tórax. Os dedos devem ficar para cima, toda a força é concentrada na palma das mãos. A idéia é fazer movimentos,
+      de baixo intervalo, com forte compressão do coração (cerca de uma compressão por segundo). Quanto mais esticados seu braços, maior a força de compressão.
+ "}
+ 
+      {"step": Aprenda fazer respiração boca a boca: Deite o paciente com o pescoço esticado. Assim o ar passa com mais facilidade, abaixe a língua do paciente 
+      e veja se existe algum objeto atrapalhando a passagem de ar pela garganta, abra os botões e zíperes da roupa do paciente e, com uma das mãos, tape as 
+      narinas dele, inspire profundamente e coloque sua boca sobre a do paciente, sopre o ar com força, notando se o tórax do paciente se mexe (como se ele 
+      estivesse respirando normalmente), afaste-se do paciente para que ele consiga expirar e repita os passos até a respiração do paciente voltar ao normal
+      ou até a chegada do socorro médico."}
+
+  },  
+
+  "title": "Intoxicação",
+    "id": "Rodrigo_id",
+    "description": " Intoxicação é o aparecimento de sinais e sintomas prejudiciais aos seres humanos ou animais, devido ao contato com substâncias químicas. ",
+    "symptoms" : [
+      { "key" : "1", "description" : "Vômito e salivação excessiva;." },
+      { "key" : "2", "description" : "Sonolência, Desorientação;." },
+      { "key" : "3", "description" : "Dificuldade de respirar;." },
+      { "key" : "4", "description" : "Desmaios, convulsão;." },
+      { "key" : "5", "description" : Sinais evidentes na boca ou na pele decorrentes de contato ou ingestão de substâncias; químicas ou plantas tóxicas;." },
+ 
+     ],
+    "causes" : [
+      { "key" : "Cause 1", "description" : " Produtos de limpeza e cosméticos;" },
+      { "key" : "Cause 2", "description" : " Medicamentos, inclusive os fitoterápicos;" },
+      { "key" : "Cause 3", "description" : " Raticidas, inseticidas e outros agrotóxicos;" },
+      { "key" : "Cause 4", "description" : " Plantas medicinais ou ornamentais;" },
+      { "key" : "Cause 5", "description" : " Bebidas alcoólicas e outras drogas de abuso;" },
+      { "key" : "Cause 6", "description" : " Mordidas e picadas de animais peçonhentos;" },
+    ],
+    "key": "Intoxicação",
+    "steps": [
+      {"step": Nesses casos de envenenamento, limpe a boca com água corrente sem engolir e procure um serviço de emergência o mais rápido possível. Desmaios e crises
+      de convulsão: Pessoas com crise convulsiva ou em desmaio devem ser mantidas deitadas, com o pescoço esticado. Mantenha as vias aéreas (boca e narina) livres e
+      desobstruídas para evitar sufocamento. Só se devem imobilizar os membros caso haja risco de lesões ao paciente ou a quem estiver prestando ajuda.
+
+"},
+
+  },   
+
+{
+  "title": "Sangramentos no nariz",
+    "id": "Rodrigo_id",
+    "description": " A causa mais comum de sangramento no nariz é o tempo seco, quando os índices de umidade do ar ficam abaixo do recomendado e a mucosa
+    nasal fica excessivamente ressecada, aumentando as chances de seus vasos sanguíneos estourarem. ",
+    "symptoms" : [
+      { "key" : "1", "description" : "O principal sintoma de sangramento no nariz é a presença de sangue em uma ou em ambas as narinas.
+Pode acontecer em menor ou maior quantidade, como um filete ou em grande fluxo de sangue e pode durar mais ou menos tempo." },
+      
+    
+     ],
+    "causes" : [
+      { "key" : "Cause 1", "description" : " Pancadas no nariz." },
+      { "key" : "Cause 2", "description" : "Pressão alta." },
+      { "key" : "Cause 3", "description" : " Presença de corpo estranho no nariz." },
+      { "key" : "Cause 4", "description" : " Plaquetas baixas." },
+      { "key" : "Cause 5", "description" : " Desvio do septo nasal." },
+      { "key" : "Cause 6", "description" : " Hemofilia. " },
+      { "key" : "Cause 7", "description" : " Sinusite" },
+      { "key" : "Cause 8", "description" : " Uso de medicamentos." },
+    ],
+    "key": "Sangramentosnonariz",
+    "steps": [
+      {"step": A forma como ocorreu o sangramento não importa, independentemente se eles aconteceram espontaneamente ou após alguma batida,
+      os cuidados são os mesmos: passe gelo no local e fique sentado ou deitado com a cabeça para trás. Se estiver sangrando muito, 
+      coloque uma gaze dentro da narina. Nunca use algodão hidrófilo em qualquer ferimento.
+"},
+
+  },  
+
+
+{
   "title": "Torções e fraturas",
     "id": "Rodrigo_id",
-    "description": " Uma fratura é um osso quebrado. Uma luxação é quando um osso se move para fora de sua articulação, e um entorse/estiramento é o alongamento de ligamentos ou tendões. Enquanto eles podem ser parecidos, são duas lesões diferentes. ",
+    "description": " Uma fratura é um osso quebrado. Uma luxação é quando um osso se move para fora de sua articulação, e um entorse/estiramento é o 
+    alongamento de ligamentos ou tendões. Enquanto eles podem ser parecidos, são duas lesões diferentes. ",
     "symptoms" : [
       { "key" : "1", "description" : "Sensibilidade na região lesionada." },
       { "key" : "2", "description" : "Inchaço." },
@@ -17,7 +123,8 @@
     ],
     "key": "Torçõesefraturas",
     "steps": [
-      {"step": m situações como entorse ou até mesmo fraturas, pode-se improvisar uma tala com madeira, uma revista grossa ou mesmo com jornal, colocando gelo no local e evitando massagear. Após isso, com a área imobilizada procure ajuda médica.
+      {"step": em situações como entorse ou até mesmo fraturas, pode-se improvisar uma tala com madeira, uma revista grossa ou mesmo com jornal,
+      colocando gelo no local e evitando massagear. Após isso, com a área imobilizada procure ajuda médica.
 ."},
 
   }, 
@@ -27,9 +134,9 @@
     "id": "Rodrigo_id",
     "description": "O choque elétrico (AO 1945: choque eléctrico) é a passagem de uma corrente elétrica através do corpo, utilizando-o como um condutor. ",
     "symptoms" : [
-      { "key" : "1", "description" : "A gravidade das consequências varia de acordo com o fluxo de corrente elétrica. Então, quanto menor a voltagem da corrente e mais rápido a pessoa for socorrida,
-      mais brandas podem ser as sequelas. Algumas delas são náuseas, queimaduras, tonturas, alteração do batimento cardíaco, formigamento e ardência." },
-      ,
+      { "key" : "1", "description" : "A gravidade das consequências varia de acordo com o fluxo de corrente elétrica. Então, quanto menor a voltagem da corrente e 
+      mais rápido a pessoa for socorrida, mais brandas podem ser as sequelas. Algumas delas são náuseas, queimaduras, tonturas, alteração do batimento cardíaco, 
+      formigamento e ardência." },
      ],
     "causes" : [
       { "key" : "Cause 1", "description" : " Contato com corrente de energia elétrica" },
@@ -43,7 +150,8 @@
   {
   "title": "Cortes Profundos",
     "id": "anna_id",
-    "description": "Um corte profundo pode ser causado pelo impacto de qualquer objeto afiado contra a pele, incluindo coisas simples como quinas de paredes ou objetos projetados para o corte como facas.",
+    "description": "Um corte profundo pode ser causado pelo impacto de qualquer objeto afiado contra a pele, incluindo coisas simples como quinas de paredes ou 
+    objetos projetados para o corte como facas.",
     "thumbnail": "https://imgur.com/STxYxYE",
     "symptoms" : [
       { "key" : "1", "description" : "Dor extrema, sangramento e sinais de choque (frio, suor excessivo, calafrios ou palidez)." },
@@ -55,8 +163,10 @@
     "key": "cortesprofundos",
     "steps": [
       {"step": "Lave bem o local com água e sabão por cinco a dez minutos", "imagem": "https://imgur.com/ChkHjje"},
-      {"step": "Aplique pressão para interromper o sangramento, pressione um pano limpo sobre o local por pelo menos 15 minutos e tente manter o corte acima do nível do coração para conter o sangramento.", "imagem": "https://imgur.com/5efCKeJ"},
-      {"step": " Aplique uma camada fina de pomada antibiótica e cubra o corte com uma gaze. Mantenha a ferida seca e limpa trocando o curativo uma ou duas vezes por dia até que ela cicatrize.", "imagem": "https://imgur.com/3i99911"}
+      {"step": "Aplique pressão para interromper o sangramento, pressione um pano limpo sobre o local por pelo menos 15 minutos e tente manter o corte acima do nível
+      do coração para conter o sangramento.", "imagem": "https://imgur.com/5efCKeJ"},
+      {"step": " Aplique uma camada fina de pomada antibiótica e cubra o corte com uma gaze. Mantenha a ferida seca e limpa trocando o curativo uma ou duas vezes por
+      dia até que ela cicatrize.", "imagem": "https://imgur.com/3i99911"}
     ],
      "link": [
       {"link": "http://www.manutencaoesuprimentos.com.br"},
@@ -65,7 +175,8 @@
   {
   "title": "Queimaduras Químicas",
     "id": "anna_id",
-    "description": "As queimaduras químicas acontecem quando um indivíduo entra em contato com qualquer substância que pode causar uma reação com a pele. Essas substâncias podem ser qualquer coisa, desde pimentas fortes até produtos químicos industriais altamente tóxicos.",
+    "description": "As queimaduras químicas acontecem quando um indivíduo entra em contato com qualquer substância que pode causar uma reação com a pele. Essas 
+    substâncias podem ser qualquer coisa, desde pimentas fortes até produtos químicos industriais altamente tóxicos.",
     "thumbnail": "https://imgur.com/kmnkX2k",
     "symptoms" : [
       { "key" : "1", "description" : "Pele escurecida ou morta, que se vê principalmente em queimaduras químicas causadas por ácido" },
@@ -152,7 +263,8 @@
     "key": "engasgoGrave",
     "steps": [
       {"step": "Ficar de pé atrás da vítima, que também deve estar de pé. Passar os braços à volta do tronco da pessoa.", "imagem": "https://imgur.com/a/P3stoeZ"},
-      {"step": "Cerrar o punho da mão que tem mais força e colocá-la, com o nó do polegar, sobre a boca do estômago da vítima, que fica entre as costelas. Colocar a outra mão sobre a mão que tem o punho cerrado", "imagem": "https://imgur.com/5Yj65H2"},
+      {"step": "Cerrar o punho da mão que tem mais força e colocá-la, com o nó do polegar, sobre a boca do estômago da vítima, que fica entre as costelas. Colocar a
+      outra mão sobre a mão que tem o punho cerrado", "imagem": "https://imgur.com/5Yj65H2"},
       {"step": "Fazer pressão com as mãos contra o estômago da pessoa, para dentro e para cima, como se fosse desenhar uma vírgula.", "imagem": "https://imgur.com/V80ZDE5"},
       {"step": "Continue o movimento até que a vítima elimine o objeto que está causando a obstrução.", "imagem": "https://imgur.com/2s1r6tJ"}
     ]
