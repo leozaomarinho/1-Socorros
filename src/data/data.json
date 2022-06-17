@@ -1,0 +1,390 @@
+[
+  {
+    "title": "Desmaios",
+    "id": "1",
+    "description": "É a perda temporária dos sentidos. Normalmente, é resultado da diminuição do fluxo sanguíneo no cérebro.",
+    "thumbnail": "https://i.imgur.com/6yKsdFs.png",
+    "symptoms": [
+      { "key": "1", "description": "Súbita fraqueza" },
+      { "key": "2", "description": "Tontura e vertigem" },
+      { "key": "3", "description": "Dor no peito" },
+      { "key": "4", "description": "Falta de ar" }
+    ],
+    "causes": [
+      { "key": "1", "description": "Jejum prolongado" },
+      { "key": "2", "description": "Problemas cardiovasculares" }
+    ],
+    "key": "desmaios",
+    "steps": [
+      {
+        "key": "1",
+        "step": "Verifique se a pessoa está respirando e se tem pulso",
+        "imagem": "https://i.imgur.com/giFpU5J.jpg"
+      },
+      {
+        "key": "2",
+        "step": "Deite a pessoa no chão, de barriga para cima, e eleve as pernas dela em relação ao corpo e a cabeça",
+        "imagem": "https://i.imgur.com/QIRfiS5.png"
+      },
+      {
+        "key": "3",
+        "step": "Coloque a cabeça da vítima de lado, para facilitar a respiração e evitar asfixia devido ao risco de vômito",
+        "imagem": "https://i.imgur.com/VNvkdBO.png"
+      },
+      {
+        "key": "4",
+        "step": "Afrouxe as roupas e abra os botões/zíperes para facilitar a respiração da pessoa",
+        "imagem": "https://i.imgur.com/5fn65lU.png"
+      },
+      {
+        "key": "5",
+        "step": "Comunique-se com as pessoas, mesmo que ela não responda",
+        "imagem": "https://i.imgur.com/5fn65lU.png"
+      }
+    ],
+    "link": "https://www.tuasaude.com/o-que-fazer-em-caso-de-desmaio/#:~:text=Quando%20uma%20pessoa%20desmaia%20deve,e%20iniciar%20a%20massagem%20card%C3%ADaca"
+  },
+  {
+    "title": "Engasgo Grave",
+    "id": "2",
+    "description": "É quando ocorre o bloqueio da traqueia (órgão que leva ar aos pulmões) por um objeto estranho, por vômito ou sangue.",
+    "thumbnail": "https://i.imgur.com/rApVOjB.jpeg",
+    "symptoms": [
+      { "key": "1", "description": "Dificuldade de respirar" },
+      {
+        "key": "2",
+        "description": "Agitação e tendência de colocar as mão no pescoço"
+      },
+      { "key": "3", "description": "Roxidão" }
+    ],
+    "causes": [
+      { "key": "1", "description": "Bloqueio total ou parcial da traqueia" }
+    ],
+    "key": "engasgoGrave",
+    "steps": [
+      {
+        "key": "1",
+        "step": "Ficar de pé atrás da vítima, que também deve estar de pé. Passar os braços à volta do tronco da pessoa.",
+        "imagem": "https://i.imgur.com/yvJceQT.jpeg"
+      },
+      {
+        "key": "2",
+        "step": "Cerrar o punho da mão que tem mais força e colocá-la, com o nó do polegar, sobre a boca do estômago da vítima, que fica entre as costelas. Colocar a outra mão sobre a mão que tem o punho cerrado",
+        "imagem": "https://i.imgur.com/5Yj65H2.jpeg"
+      },
+      {
+        "key": "3",
+        "step": "Fazer pressão com as mãos contra o estômago da pessoa, para dentro e para cima, como se fosse desenhar uma vírgula.",
+        "imagem": "https://i.imgur.com/V80ZDE5.jpeg"
+      },
+      {
+        "key": "4",
+        "step": "Continue o movimento até que a vítima elimine o objeto que está causando a obstrução.",
+        "imagem": "https://i.imgur.com/2s1r6tJ.jpeg"
+      }
+    ],
+    "link": "https://www.medicar.com.br/o-que-fazer-durante-um-engasgo-voce-pode-salvar-uma-vida#:~:text=Ao%20abra%C3%A7ar%20a%20pessoa%20engasgada,a%20pessoa%20desobstrua%20as%20vias"
+  },
+  {
+    "title": "Queimaduras Térmicas",
+    "id": "3",
+    "description": "Definida como sendo uma lesão traumática que acontece na pele e é ocasionada por algum agente externo..",
+    "thumbnail": "https://i.imgur.com/xPRrJnn.png",
+    "symptoms": [
+      {
+        "key": "1",
+        "description": "Vermelhidão na pele (que torna-se branca com efeito da pressão)"
+      },
+      { "key": "2", "description": "Inflamação e desidratação leve" },
+      { "key": "3", "description": "febre e dor" }
+    ],
+    "causes": [
+      {
+        "key": "1",
+        "description": "Uma exposição ou contato com uma fonte de calor."
+      },
+      { "key": "2", "description": "Contato com uma fonte fria." }
+    ],
+    "key": "queimadurasTermicas",
+    "steps": [
+      {
+        "key": "1",
+        "step": "Primeiro o local deve ser lavado com água, deixando água fria ou fresca por 10 a 15 min.",
+        "imagem": "https://i.imgur.com/Bwq5vVF.png"
+      },
+      {
+        "key": "2",
+        "step": "Segundo, cubra o local com uma faixa esterilizada e retirando todos os acessórios.",
+        "imagem": "https://i.imgur.com/VgEiTff.png"
+      }
+    ],
+    "link": "https://www.vuelopharma.com/queimaduras-termicas/"
+  },
+  {
+    "title": "Queimaduras Químicas",
+    "id": "4",
+    "description": "As queimaduras químicas acontecem quando um indivíduo entra em contato com qualquer substância que pode causar uma reação com a pele. Essas substâncias podem ser qualquer coisa, desde pimentas fortes até produtos químicos industriais altamente tóxicos.",
+    "thumbnail": "https://i.imgur.com/yjcD6Tn.png",
+    "symptoms": [
+      {
+        "key": "1",
+        "description": "Pele escurecida ou morta, que se vê principalmente em queimaduras químicas causadas por ácido"
+      },
+      {
+        "key": "2",
+        "description": "Irritação, vermelhidão ou ardor na área afetada"
+      },
+      { "key": "3", "description": "Adormecimento ou dor na área afetada" },
+      {
+        "key": "4",
+        "description": "Uma perda de visão ou alterações na visão se os produtos químicos entrarem em contacto com os seus olhos"
+      }
+    ],
+    "causes": [
+      { "key": "1", "description": " Ácidos" },
+      { "key": "2", "description": " Produtos Químicos" }
+    ],
+    "key": "queimadurasQuimicas",
+    "steps": [
+      {
+        "key": "1",
+        "step": "Remover o químico que causou a queimadura e enxaguar a pele sob água corrente durante 10 a 20 minutos.",
+        "imagem": "https://i.imgur.com/Bwq5vVF.png"
+      },
+      {
+        "key": "2",
+        "step": "Se um químico entrou em contacto com os seus olhos, lave os olhos continuamente durante pelo menos 20 minutos antes de procurar cuidados de emergência.",
+        "imagem": "https://i.imgur.com/OO3RBV9.png"
+      },
+      {
+        "key": "3",
+        "step": "Remova qualquer roupa ou joias contaminadas pelo produto químico. Envolva a área queimada com um penso esterilizado seco ou um pano limpo, se possível.",
+        "imagem": "https://i.imgur.com/VgEiTff.png"
+      }
+    ],
+    "link": "http://www.estarbemhoje.com"
+  },
+  {
+    "title": "Cortes Profundos",
+    "id": "5",
+    "description": "Um corte profundo pode ser causado pelo impacto de qualquer objeto afiado contra a pele, incluindo coisas simples como quinas de paredes ou objetos projetados para o corte como facas.",
+    "thumbnail": "https://i.imgur.com/Er6hjLc.png",
+    "symptoms": [
+      {
+        "key": "1",
+        "description": "Dor extrema, sangramento e sinais de choque (frio, suor excessivo, calafrios ou palidez)."
+      },
+      {
+        "key": "2",
+        "description": "Presença de gordura (tecido irregular e amarelo), músculos (tecido fibroso e vermelho) ou ossos (superfície rígida e branca)."
+      }
+    ],
+    "causes": [{ "key": "1", "description": " Contato com objetos afiados" }],
+    "key": "cortesProfundos",
+    "steps": [
+      {
+        "key": "1",
+        "step": "Lave bem o local com água e sabão por cinco a dez minutos",
+        "imagem": "https://i.imgur.com/LwEr7UN.png"
+      },
+      {
+        "key": "2",
+        "step": "Aplique pressão para interromper o sangramento, pressione um pano limpo sobre o local por pelo menos 15 minutos e tente manter o corte acima do nível do coração para conter o sangramento.",
+        "imagem": "https://i.imgur.com/skZQcbK.png"
+      },
+      {
+        "key": "3",
+        "step": " Aplique uma camada fina de pomada antibiótica e cubra o corte com uma gaze. Mantenha a ferida seca e limpa trocando o curativo uma ou duas vezes por dia até que ela cicatrize.",
+        "imagem": "https://i.imgur.com/qQgE6ku.png"
+      }
+    ],
+    "link": "https://interhelpambulancia.com/como-realizar-os-primeiros-socorros-para-cortes/#:~:text=Primeiros%20socorros%20para%20cortes%20profundos&text=Use%20um%20pano%20limpo%20e,%C3%A1gua%20corrente%20e%20sab%C3%A3o%20neutro"
+  },
+  {
+    "title": "Choques elétricos",
+    "id": "6",
+    "description": "O choque elétrico (AO 1945: choque eléctrico) é a passagem de uma corrente elétrica através do corpo, utilizando-o como um condutor. ",
+    "thumbnail": "https://i.imgur.com/x67FSKi.png",
+    "symptoms": [
+      {
+        "key": "1",
+        "description": "A gravidade das consequências varia de acordo com o fluxo de corrente elétrica. Então, quanto menor a voltagem da corrente e mais rápido a pessoa for socorrida, mais brandas podem ser as sequelas. Algumas delas são náuseas, queimaduras, tonturas, alteração do batimento cardíaco, formigamento e ardência."
+      }
+    ],
+    "causes": [
+      {
+        "key": "1",
+        "description": " Contato com corrente de energia elétrica"
+      }
+    ],
+    "key": "choquesElectricos",
+    "steps": [
+      {
+        "key": "1",
+        "step": "Neste caso, é fundamental antes de prestar o socorro, verificar se a corrente elétrica foi desligada. Só então, toque a vítima.",
+        "imagem": "https://i.imgur.com/Sk1jjLo.png"
+      },
+      {
+        "key": "2",
+        "step": "Se houver uma parada cardiorrespiratória, inicie uma massagem no peito e respiração boca a boca na vítima, enquanto o socorro médico é acionado.",
+        "imagem": "https://i.imgur.com/iI5tqZa.png"
+      }
+    ],
+    "link": "https://www.unimedceara.com.br/viver_bem/choque-eletrico-dicas-para-os-primeiros-socorros/"
+  },
+  {
+    "title": "Torções e fraturas",
+    "id": "7",
+    "description": " Uma fratura é um osso quebrado. Uma luxação é quando um osso se move para fora de sua articulação, e um entorse/estiramento é o alongamento de ligamentos ou tendões. Enquanto eles podem ser parecidos, são duas lesões diferentes. ",
+    "thumbnail": "https://i.imgur.com/46zsXOg.png",
+    "symptoms": [
+      { "key": "1", "description": "Sensibilidade na região lesionada." },
+      { "key": "2", "description": "Inchaço." },
+      { "key": "3", "description": "Pode surgir equimose local." },
+      { "key": "4", "description": "Aumento da temperatura no local." },
+      { "key": "5", "description": "Vermelhidão." },
+      {
+        "key": "6",
+        "description": "Dor leve, moderada ou intensa, dependendo da gravidade da lesão."
+      }
+    ],
+    "causes": [{ "key": "1", "description": " Queda , ou acidente ." }],
+    "key": "torcoesFraturas",
+    "steps": [
+      {
+        "key": "1",
+        "step": "Em situações como entorse ou até mesmo fraturas, pode-se improvisar uma tala com madeira, uma revista grossa ou mesmo com jornal, colocando gelo no local e evitando massagear. Após isso, com a área imobilizada procure ajuda médica.",
+        "imagem": "https://i.imgur.com/Fp4yVXQ.png"
+      }
+    ],
+    "link": "https://mundoeducacao.uol.com.br/saude-bem-estar/entorses-fraturas-luxacoes.htm"
+  },
+  {
+    "title": "Sangramentos no nariz",
+    "id": "8",
+    "description": " A causa mais comum de sangramento no nariz é o tempo seco, quando os índices de umidade do ar ficam abaixo do recomendado e a mucosa nasal fica excessivamente ressecada, aumentando as chances de seus vasos sanguíneos estourarem. ",
+    "thumbnail": "https://i.imgur.com/ZbcVRja.png",
+    "symptoms": [
+      {
+        "key": "1",
+        "description": "O principal sintoma de sangramento no nariz é a presença de sangue em uma ou em ambas as narinas. Pode acontecer em menor ou maior quantidade, como um filete ou em grande fluxo de sangue e pode durar mais ou menos tempo."
+      }
+    ],
+    "causes": [
+      { "key": "1", "description": "Pancadas no nariz." },
+      { "key": "2", "description": "Pressão alta." },
+      {
+        "key": "3",
+        "description": "Presença de corpo estranho no nariz."
+      },
+      { "key": "4", "description": "Plaquetas baixas." },
+      { "key": "5", "description": "Desvio do septo nasal." },
+      { "key": "6", "description": "Hemofilia. " },
+      { "key": "7", "description": "Sinusite" },
+      { "key": "8", "description": "Uso de medicamentos." }
+    ],
+    "key": "sangramentosNariz",
+    "steps": [
+      {
+        "key": "1",
+        "step": "A forma como ocorreu o sangramento não importa, independentemente se eles aconteceram espontaneamente ou após alguma batida, os cuidados são os mesmos: passe gelo no local e fique sentado ou deitado com a cabeça para frente. Se estiver sangrando muito, coloque uma gaze dentro da narina. Nunca use algodão hidrófilo em qualquer ferimento.",
+        "imagem": "https://i.imgur.com/TUaoiFV.png"
+      }
+    ],
+    "link": "https://minhasaude.proteste.org.br/entenda-as-causas-do-sangramento-nasal-e-o-que-deve-ser-feito/"
+  },
+  {
+    "title": "Intoxicação",
+    "id": "9",
+    "description": " Intoxicação é o aparecimento de sinais e sintomas prejudiciais aos seres humanos ou animais, devido ao contato com substâncias químicas. ",
+    "thumbnail": "https://i.imgur.com/vXMr8xw.png",
+    "symptoms": [
+      { "key": "1", "description": "Vômito e salivação excessiva;." },
+      { "key": "2", "description": "Sonolência, Desorientação;." },
+      { "key": "3", "description": "Dificuldade de respirar;." },
+      { "key": "4", "description": "Desmaios, convulsão;." },
+      {
+        "key": "5",
+        "description": "Sinais evidentes na boca ou na pele decorrentes de contato ou ingestão de substâncias; químicas ou plantas tóxicas."
+      }
+    ],
+    "causes": [
+      { "key": "1", "description": "Produtos de limpeza e cosméticos;" },
+      {
+        "key": "2",
+        "description": "Medicamentos, inclusive os fitoterápicos;"
+      },
+      {
+        "key": "3",
+        "description": "Raticidas, inseticidas e outros agrotóxicos;"
+      },
+      {
+        "key": "4",
+        "description": "Plantas medicinais ou ornamentais;"
+      },
+      {
+        "key": "5",
+        "description": "Bebidas alcoólicas e outras drogas de abuso;"
+      },
+      {
+        "key": "6",
+        "description": "Mordidas e picadas de animais peçonhentos;"
+      }
+    ],
+    "key": "intoxicacao",
+    "steps": [
+      {
+        "key": "1",
+        "step": "Nesses casos de envenenamento, limpe a boca com água corrente sem engolir e procure um serviço de emergência o mais rápido possível. Desmaios e crises de convulsão: Pessoas com crise convulsiva ou em desmaio devem ser mantidas deitadas, com o pescoço esticado. Mantenha as vias aéreas (boca e narina) livres e desobstruídas para evitar sufocamento. Só se devem imobilizar os membros caso haja risco de lesões ao paciente ou a quem estiver prestando ajuda.",
+        "imagem": "https://i.imgur.com/EX2vywG.png"
+      }
+    ],
+    "link": "https://www.cpt.com.br/noticias/primeiros-socorros-atendimento-a-vitima-de-intoxicacao#:~:text=Assim%2C%20nos%20casos%20de%20intoxica%C3%A7%C3%A3o%2C%20deve%2Dse%3A&text=%E2%80%94%20induzir%20a%20absor%C3%A7%C3%A3o%20r%C3%A1pida%20de,v%C3%ADtima%20para%20o%20atendimento%20especializado"
+  },
+  {
+    "title": "Ataques cardíacos",
+    "id": "10",
+    "description": " O infarto do miocárdio, ou ataque cardíaco, é a morte das células de uma região do músculo do coração por conta da formação de um coágulo que interrompe o fluxo sanguíneo de forma súbita e intensa.",
+    "thumbnail": "https://i.imgur.com/ZUnja6P.png",
+    "symptoms": [
+      {
+        "key": "1",
+        "description": "Dor no peito. Trata-se de uma sensação de pressão, peso, aperto ou compressão no peito."
+      },
+      { "key": "2", "description": "Dor em outras partes do corpo." },
+      { "key": "3", "description": "Sensação de tontura ou atordoamento." },
+      { "key": "4", "description": "Sudorese." },
+      { "key": "5", "description": "Enjoo ou vômito." },
+      {
+        "key": "6",
+        "description": "Sensação forte de ansiedade (igual a um ataque de pânico)"
+      },
+      { "key": "7", "description": "Tosse ou chiado." }
+    ],
+    "causes": [
+      {
+        "key": "1",
+        "description": " A principal causa do infarto é a aterosclerose, doença em que placas de gordura se acumulam no interior das artérias coronárias, chegando a obstrui-las. Na maioria dos casos o infarto ocorre quando há o rompimento de uma dessas placas, levando à formação do coágulo e interrupção do fluxo sanguíneo."
+      }
+    ],
+    "key": "ataquesCardiacos",
+    "steps": [
+      {
+        "key": "1",
+        "step": "O atendimento e primeiros-socorros nesta situação é fundamental, pois se inicia uma luta contra o tempo. Nos primeiros três minutos, é importante que o paciente seja submetido aos choques de um desfibrilador automático quando fora do ambiente hospitalar. Isto acompanhado de compressões torácicas corretamente realizadas. Se houver sensação de opressão no peito, dor no lado esquerdo ou no meio do peito, que pode irradiar para o pescoço e para o braço esquerdo, suor frio e intenso, desconforto acompanhado de tontura, desmaio, sudorese, náuseas e falta de ar, procure um médico imediatamente, segundo o cardiologista Otávio Gebara, do Instituto de Cardiologia São Paulo. O paciente também precisa manter a calma e deve tomar uma aspirina, que ajuda na circulação sanguínea. Em caso de sensação de perda da consciência, o ato de tossir ininterruptamente melhora a irrigação do coração, prejudicada no caso do infarto.",
+        "imagem": "https://i.imgur.com/skOaBkm.png"
+      },
+      {
+        "key": "2",
+        "step": "Aprenda fazer massagem cardíaca: coloque o paciente deitado de costas, numa superfície plana e sem travesseiro, com as mãos espalmadas, uma sobre a outra, pressione a região bem no meio do tórax. Os dedos devem ficar para cima, toda a força é concentrada na palma das mãos. A ideia é fazer movimentos, de baixo intervalo, com forte compressão do coração (cerca de uma compressão por segundo). Quanto mais esticados seu braços, maior a força de compressão.",
+        "imagem": "https://i.imgur.com/xpPvggz.png"
+      },
+      {
+        "key": "3",
+        "step": "Aprenda fazer respiração boca a boca: Deite o paciente com o pescoço esticado. Assim o ar passa com mais facilidade, abaixe a língua do paciente e veja se existe algum objeto atrapalhando a passagem de ar pela garganta, abra os botões e zíperes da roupa do paciente e, com uma das mãos, tape as narinas dele, inspire profundamente e coloque sua boca sobre a do paciente, sopre o ar com força, notando se o tórax do paciente se mexe (como se ele estivesse respirando normalmente), afaste-se do paciente para que ele consiga expirar e repita os passos até a respiração do paciente voltar ao normal ou até a chegada do socorro médico.",
+        "imagem": "https://i.imgur.com/rLjmADq.png"
+      }
+    ],
+    "link": "https://www.tuasaude.com/primeiros-socorros-no-infarto-agudo-do-miocardio/"
+  }
+]
