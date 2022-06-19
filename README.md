@@ -22,12 +22,14 @@ O app possui uma lista com principais problemas e suas soluções imediatistas. 
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
-* [Protótipos](#prototipos)
-* [Contribuição](#contribuição)
+* [Protótipos](#protótipos)
+* [FrontEnd](#frontend)
+* [Vídeo](#vídeo)
 * [Autores](#autores)
+* [Relatório Final](https://docs.google.com/document/d/1LbCbG6dHaBXoYs7X2L77S7ZfY_tobcTeeHP_bI7y5Qk/edit)
+* [Contribuição](#contribuição)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
-* [Relatório Final](https://docs.google.com/document/d/1LbCbG6dHaBXoYs7X2L77S7ZfY_tobcTeeHP_bI7y5Qk/edit)
 
 # Requisitos Funcionais 
 
@@ -58,13 +60,9 @@ O app possui uma lista com principais problemas e suas soluções imediatistas. 
 
 Para ver o código entrem na branch [master](https://github.com/leozaomarinho/1-Socorros/tree/master) 
 
-# Video 
+# Vídeo 
 
 https://user-images.githubusercontent.com/62044186/174398428-300e2e1a-a7cf-4507-8fc6-206c89813eab.mp4
-
-# Contribuição
-
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
 # Autores
 | <img src="https://avatars.githubusercontent.com/u/102473494?v=4" width=115 > | <img src="https://avatars.githubusercontent.com/u/89555322?v=4" width=115 >| <img src="https://avatars.githubusercontent.com/u/89614560?v=4" width=115 > | <img src="https://avatars.githubusercontent.com/u/81639502?v=4" width=115 >
@@ -75,6 +73,13 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 |---|---|---|---|
 | [Lucas Valadares](https://github.com/ldevLucasl) | [Rodrigo Pereira](https://github.com/DevRodrigoPatricio) | [Vinicius Mello](https://github.com/viniciusMelloo) | [Sanderson Maxwell](https://github.com/SandersonMaxwell) 
 
+# Relatório Final
+
+Link para a leitura do relatório final do projeto - [Relatório](https://docs.google.com/document/d/1LbCbG6dHaBXoYs7X2L77S7ZfY_tobcTeeHP_bI7y5Qk/edit)
+
+# Contribuição
+
+Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
 # Licença
 
