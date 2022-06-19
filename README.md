@@ -13,7 +13,7 @@ Dessa forma, o aplicativo visa ajudar as pessoas a solucionar tais problemas eme
 O app possui uma lista com principais problemas e suas soluções imediatistas. Tem ainda um botão de emergência que liga para os bombeiros.
 
 <h4 align="center"> 
-	🚧  Em desenvolvimento . . .
+
 </h4>
 
 # Índice/Sumário
@@ -27,7 +27,7 @@ O app possui uma lista com principais problemas e suas soluções imediatistas. 
 * [Autores](#autores)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
-
+* [Relatório Fina](https://docs.google.com/document/d/1LbCbG6dHaBXoYs7X2L77S7ZfY_tobcTeeHP_bI7y5Qk/edit)
 
 # Requisitos Funcionais 
 
@@ -82,4 +82,4 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+Agradecemsos aos professores, a UniBH e aos nossos familiares. Mas especialmente a cada um de nós, que se empenhou pela conclusão deste trabalho.
