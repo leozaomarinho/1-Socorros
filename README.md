@@ -27,7 +27,7 @@ O app possui uma lista com principais problemas e suas soluções imediatistas. 
 * [Autores](#autores)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
-* [Relatório Fina](https://docs.google.com/document/d/1LbCbG6dHaBXoYs7X2L77S7ZfY_tobcTeeHP_bI7y5Qk/edit)
+* [Relatório Final](https://docs.google.com/document/d/1LbCbG6dHaBXoYs7X2L77S7ZfY_tobcTeeHP_bI7y5Qk/edit)
 
 # Requisitos Funcionais 
 
